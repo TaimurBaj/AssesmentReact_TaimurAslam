@@ -1,0 +1,20 @@
+.main-heading {
+  background:#aaa;
+  margin: auto;
+  width: 50%;
+  border: 3px solid #556;
+  padding: 10px;
+  white-space: pre;
+  text-align: center;
+}
+
+.jobFrom{
+  align-items: center;
+  text-align: center;
+}
+
+.form-label{
+  content: "\a";
+  white-space: pre;
+  font-weight: bold;
+}
